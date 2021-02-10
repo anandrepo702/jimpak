@@ -8,6 +8,6 @@ public class MyController {
 
 	@GetMapping("/chichaa")
 	public String get() {
-		return "Git Set ra chichhaaa";
+		return "Git Set ra chichhaaaaaaaaaaaaaaa";
 	}
 }
